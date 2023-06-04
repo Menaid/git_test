@@ -1,1 +1,2 @@
 Hello my beautiful world!
+Now we have 2 lines!
